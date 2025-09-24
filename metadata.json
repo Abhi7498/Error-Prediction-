@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI: Proactive Error Guardian",
+  "description": "An advanced AI-powered monitoring dashboard that analyzes log streams and workflow states in real-time. It predicts potential failure points, diagnoses root causes, and automatically suggests actionable fixes to maintain system health.",
+  "requestFramePermissions": []
+}
